@@ -1,0 +1,2 @@
+# ACCT421_AnalyticsForValueInvesting
+Backtesting Quantitative Strategies and Portfolio Management using Python
